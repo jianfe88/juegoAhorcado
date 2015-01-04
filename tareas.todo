@@ -1,0 +1,24 @@
+Revisar:
+  √ Al finalizar se reinicia muy rápido @done 
+      Solucionado con actualizando la página al cabo de 5 segundos.
+  √ Si la letra esta vacia y se pulsa comprobar tambien cuenta fallo. @done
+  √ Imagen demaseado alta para laptop @done
+  √ Convertir todo a minusculas para no producir errores @done
+  √ Utilizar una carpeta para imagenes @done
+  √ Revisar diseño del panel de juego. @done (14-09-09 16:47)
+  √ Si el final del juego es una victoria darle una salida. @done (14-09-09 12:50)
+  √ La solución no se limpia al final del juego en Firefox. @done (14-09-11 11:12)
+  √ Permite seguir jugando despues de muerto @done (14-09-11 15:05)
+      Ocultando el panel de juego
+  √ Diferentes palabras . @done (14-09-11 17:28)
+  √ Selección aleatoria. @done (14-09-11 17:28)
+  √ En caso de perder mostrar la palabra oculta. @done (14-09-11 18:00)
+  □ Diferente longitud de palabra.
+  □  Mostrar las letras elegidas hasta el momento y diferenciar los aciertos de los fallos.
+  □  Si repites la misma letra acertada te la cuenta de nuevo.
+Pagina alojada:
+  Version_1 --> http://jianfe66.github.io/ahorcado/ 
+  Version_2 --> http://jianfe66.github.io/ahorcado_v2/ 
+  Version_3 --> http://goo.gl/tl5qpI
+
+
